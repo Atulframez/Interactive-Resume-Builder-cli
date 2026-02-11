@@ -64,4 +64,66 @@ This Python project is a command-line interface (CLI) tool for building professi
 ## License
 
 This project is licensed under the MIT License.
-# Interactive-Resume-Builder-cli
+
+## 🚀 Features
+
+- Interactive menu-driven interface
+- Add/Edit:
+  - Contact Information
+  - Work Experience
+  - Education
+  - Skills
+  - Projects
+  - Certifications
+  - Achievements
+- Generate professional PDF resume
+- Multiple entries support (Experience, Education, Projects, etc.)
+- Auto-opens generated PDF
+- Clean and structured resume formatting
+
+---
+
+## 🧠 Tech Stack
+
+- Python 3.x
+- prompt_toolkit
+- FPDF
+- geopy (future enhancement support)
+
+## 📑 Resume Sections Supported
+
+Contact Information
+Work Experience (multiple entries)
+Education (multiple entries)
+Skills
+Projects
+Certifications
+Achievements
+
+## 🎯 Learning Outcomes
+
+Building interactive CLI applications
+Menu-driven program design
+PDF generation using FPDF
+Structured data handling
+Modular Python development
+Real-world application development
+
+## 🔮 Future Enhancements
+
+Resume templates (Modern / Classic / Minimal)
+Custom font support
+Export to DOCX
+Web version (Flask/FastAPI)
+Resume preview before PDF generation
+Cloud storage integration
+
+## 👨‍💻 Author
+
+Atul Anand
+BCA (Hons)
+Amity University, Noida
+
+## ⭐ Support
+
+If you like this project, please consider ⭐ starring the repository!
